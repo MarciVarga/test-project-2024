@@ -1,5 +1,7 @@
 # Docker Compose Spring Boot and MySQL example
 
+localhost:6868
+
 ## Run the System
 We can easily run the whole with only a single command:
 ```bash
